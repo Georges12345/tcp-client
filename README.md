@@ -1,5 +1,5 @@
 # tcp-client
-This is a bsic tcp client
+This is a basic tcp client
 
 Usage:
 
