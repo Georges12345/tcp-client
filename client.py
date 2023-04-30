@@ -8,7 +8,7 @@ ip_address = input("Enter the server ip address")
 port = input("Enter The port number")
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-s.connect((str(ip_address), int(5555)))
+s.connect((str(ip_address), int(port)))
 
 
 while True:
